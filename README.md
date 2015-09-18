@@ -1,7 +1,7 @@
 # CS290I_HW_3, iOS App Development:  Server Driven App Implementation
 
 #Intro
-This repo is intended for CS290I (Computer Science for Non_Computer Science) students. It contains sample skeleton code from HW_1. An easy way to start the homework would be to fork this repo. 
+This repo is intended for CS290I (Computer Science for Non_Computer Science) students. It contains sample skeleton code for HW_3. An easy way to start the homework would be to fork this repo. 
 
 
 In this assignment you will be implementing your own web server utilizing the Python webserver library “Flask” . You will be given a skeleton constructor code that implements typical POST API that accepts and returns predefined JSON outputs. The API specifications that you are asked to implement are tabulated below. More info about flask can be found here.
