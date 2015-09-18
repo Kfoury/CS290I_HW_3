@@ -1,5 +1,5 @@
 # CS290I_HW_3
-#iOS App Development:  Server Driven App Implementation
+#Server Driven iOS App Implementation
 
 #Intro
 This repo is intended for CS290I (Computer Science for Non_Computer Science) students. It contains sample skeleton code for HW_3. An easy way to start the homework would be to fork this repo. 
