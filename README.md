@@ -1,4 +1,4 @@
-# CS290I_HW_3, iOS / Flask Server Driven App Implementation
+# CS290I_HW_3, iOS App Development:  Server Driven App Implementation
 
 #Intro
 This repo is intended for CS290I (Computer Science for Non_Computer Science) students. It contains sample skeleton code from HW_1. An easy way to start the homework would be to fork this repo. 
